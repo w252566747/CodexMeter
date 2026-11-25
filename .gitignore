@@ -1,0 +1,24 @@
+# SwiftPM build output
+.build/
+.swiftpm/
+DerivedData/
+dist/
+
+# Generated app bundles and signing output
+*.app/
+*.dSYM/
+*.xcuserstate
+*.xcuserdatad/
+
+# macOS metadata
+.DS_Store
+
+# Local authentication and account data
+auth.json
+accounts.json
+*.auth.json
+*.backup
+.env
+.env.*
+*.p12
+*.mobileprovision
