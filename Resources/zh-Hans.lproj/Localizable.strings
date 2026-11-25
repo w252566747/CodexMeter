@@ -1,0 +1,14 @@
+"usage_tooltip" = "CodexMeter：%@ • %@\n每 10 秒自动刷新";
+"usage_error" = "无法刷新 Codex 用量：%@";
+"usage_details" = "Codex 用量详情";
+"language" = "语言";
+"reset_cards" = "重置卡数量";
+"expires_at" = "到期时间";
+"not_reported" = "接口未提供";
+"loading_usage" = "正在读取用量，请稍后再点一次。";
+"resets_in_hours_minutes" = "%d 小时 %d 分钟后重置";
+"resets_in_days_hours" = "%d 天 %d 小时后重置";
+"reset_cards_count" = "%d 张可用";
+"reset_card_number" = "重置卡 %d";
+"no_expiration" = "不会过期";
+"credits_unavailable" = "暂时无法读取重置卡信息";
