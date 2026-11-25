@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="background" x1="124" y1="94" x2="888" y2="930" gradientUnits="userSpaceOnUse"><stop stop-color="#2A302D"/><stop offset="0.7" stop-color="#0B0E0C"/><stop offset="1" stop-color="#050706"/></linearGradient>
+    <linearGradient id="gloss" x1="210" y1="130" x2="566" y2="590" gradientUnits="userSpaceOnUse"><stop stop-color="white" stop-opacity="0.16"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect x="48" y="48" width="928" height="928" rx="208" fill="url(#background)"/>
+  <rect x="51" y="51" width="922" height="922" rx="205" fill="none" stroke="white" stroke-opacity="0.09" stroke-width="6"/>
+  <path d="M130 225C256 79 485 71 625 110C435 149 267 324 205 506C142 421 107 310 130 225Z" fill="url(#gloss)"/>
+  <g fill="none" stroke-linecap="round">
+    <circle cx="350" cy="512" r="194" stroke="white" stroke-opacity="0.12" stroke-width="56"/><circle cx="674" cy="512" r="194" stroke="white" stroke-opacity="0.12" stroke-width="56"/>
+    <circle cx="350" cy="512" r="194" stroke="#50D96E" stroke-opacity="0.3" stroke-width="70" stroke-dasharray="875 1219" transform="rotate(-90 350 512)" filter="url(#softGlow)"/>
+    <circle cx="674" cy="512" r="194" stroke="#329FFF" stroke-opacity="0.3" stroke-width="70" stroke-dasharray="1024 1219" transform="rotate(-90 674 512)" filter="url(#softGlow)"/>
+    <circle cx="350" cy="512" r="194" stroke="#58DC74" stroke-width="56" stroke-dasharray="875 1219" transform="rotate(-90 350 512)"/><circle cx="674" cy="512" r="194" stroke="#319FFF" stroke-width="56" stroke-dasharray="1024 1219" transform="rotate(-90 674 512)"/>
+  </g>
+  <g fill="white" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="84" font-weight="700" text-anchor="middle"><text x="350" y="542">5h</text><text x="674" y="542">7d</text></g>
+</svg>
