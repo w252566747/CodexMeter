@@ -1,0 +1,14 @@
+"usage_tooltip" = "CodexMeter：%@ • %@\n10秒ごとに更新";
+"usage_error" = "Codexの使用状況を更新できません：%@";
+"usage_details" = "Codexの使用状況";
+"language" = "言語";
+"reset_cards" = "リセットカード";
+"expires_at" = "有効期限";
+"not_reported" = "APIから情報がありません";
+"loading_usage" = "使用状況を取得中です。少し待ってからもう一度開いてください。";
+"resets_in_hours_minutes" = "%d時間%d分後にリセット";
+"resets_in_days_hours" = "%d日%d時間後にリセット";
+"reset_cards_count" = "%d枚利用可能";
+"reset_card_number" = "リセットカード %d";
+"no_expiration" = "有効期限なし";
+"credits_unavailable" = "リセットカード情報を一時的に取得できません";
