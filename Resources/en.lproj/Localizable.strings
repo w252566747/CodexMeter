@@ -1,0 +1,14 @@
+"usage_tooltip" = "CodexMeter: %@ • %@\nRefreshes every 10 seconds";
+"usage_error" = "Could not refresh Codex usage: %@";
+"usage_details" = "Codex usage details";
+"language" = "Language";
+"reset_cards" = "Reset cards";
+"expires_at" = "Expires";
+"not_reported" = "Not provided by API";
+"loading_usage" = "Loading usage. Please click again in a moment.";
+"resets_in_hours_minutes" = "Resets in %d hr %d min";
+"resets_in_days_hours" = "Resets in %d d %d hr";
+"reset_cards_count" = "%d available";
+"reset_card_number" = "Reset card %d";
+"no_expiration" = "No expiration";
+"credits_unavailable" = "Reset card details are temporarily unavailable";
